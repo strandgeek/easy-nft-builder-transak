@@ -4,6 +4,11 @@ Demo Video: https://vimeo.com/705937783
 
 Project URL: https://easy-nft-builder-strandgeek.vercel.app/
 
+Before testing the project link, make sure:
+
+- You have a Metamask Account connected to Kovan Test Network
+- You have 0 ETH (so the Transak purchase button will be shown)
+
 
 ## About the Project
 
